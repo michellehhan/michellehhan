@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Michelle Han, a junior at Granite Bay High School.
-- 🧠 I’m interested in competitive mathematics, artificial intelligence, and business.
+- 👋 Hi, I’m Michelle Han, a junior at Granite Bay High School
+- 🧠 I’m interested in mathematics & computer science
 
 
 <!---

@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Michelle Han, a senior at Granite Bay High School interested in mathematics & computer science
-- 👩🏻‍💻 Research Intern @ NYU & Executive Director @ [INTEGIRLS](https://www.integirls.org/)
-- 🍔 Currently researching computer vision applications for food recognition
+- 👋 Hi, I’m Michelle Han, an incoming freshman @ MIT
+- 👩🏻‍💻 Undegraduate Reseearch Intern @ MIT's Media Lab, Fluid Interface Group
   
 <!---
 michellehhan/michellehhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
